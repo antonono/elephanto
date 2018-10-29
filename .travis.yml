@@ -4,4 +4,5 @@ jdk:
   - openjdk8
 
 script:
+  - cd Tp1-elephanto
   - mvn test
